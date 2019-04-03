@@ -1,6 +1,6 @@
 <a href=./README.md><img src="img/back.jpg" width="50" height="50" /></a>
 # Грибная похлёбка(по мотивам Властелина Колец)
-<img src="img/shroomsoup.jpg" width="300" height="300" />
+<img src="img/shroomsoup.jpg" width="500" height="500" />
 
  [оригинал](https://pikabu.ru/story/gribnaya_pokhlebka_vlastelin_kolets_literaturnaya_kukhnya_4007713)
  ## Состав

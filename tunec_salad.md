@@ -1,6 +1,6 @@
 <a href=./README.md><img src="img/back.jpg" width="50" height="50" /></a>
 # Салат с тунцом
-<img src="img/tunec_salad..jpg" width="500" height="500" />
+<img src="img/tunec_salad.jpg" width="500" height="500" />
 
  ## Состав
 
